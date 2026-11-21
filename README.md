@@ -1,2 +1,9 @@
 # Musterdepot
-Zweites Programmierprojekt im ersten Semester. Konsolenbasierte Anwendung zur Verwaltung von Aktien, siehe README.md
+Konsolenanwendung in Java aus dem 1. Semester
+(Wirtschaftsinformatik, Hochschule Osnabrück).
+Erstes Projekt mit Objektorientierung (4 Klassen).
+
+Funktionen: Aktien registrieren, Käufe und Verkäufe buchen,
+Kurse aktualisieren, Depotübersicht mit Gewinn/Verlust.
+
+Starten über die Klasse DepotApp.
